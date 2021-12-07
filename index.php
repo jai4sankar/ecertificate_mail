@@ -36,8 +36,8 @@
 <td align="center">
 <a href="data/data.xlsx"><input type="button" value="File"></a>  
 <input type="submit">
-<a href="mail?value=f"><input type="button" value="Turncate"></a>
-<a href="mail?value=t"><input type="button" value="Mail"></a> 
+<a href="mail.php?value=f"><input type="button" value="Turncate"></a>
+<a href="mail.php?value=t"><input type="button" value="Mail"></a> 
 </td>
 
 </tr>
