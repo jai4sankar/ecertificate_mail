@@ -63,8 +63,8 @@ def make_certi(name):
 
 # Email the certificate as an attachment
 def email_certi( filename, receiver, name ):
-    username = "jai4tagore@gmail.com"
-    password = "jai@5124"
+    username = ""
+    password = ""
     sender = username + '@gmail.com'
     cc = username
 
